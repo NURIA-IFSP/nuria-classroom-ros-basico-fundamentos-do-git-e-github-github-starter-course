@@ -3,7 +3,7 @@
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
- Beyond the river is the eternal sapience you are looking for!
+ Beyond the river is the eternal sapience you are looking for! But be aware of the darkness!
 
 ## :octocat: Git and GitHub
 
