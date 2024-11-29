@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub - The Mother of all issues
+# :wave: The Mother of all issues
 
 ## 🤓 Course overview and learning outcomes 
 
